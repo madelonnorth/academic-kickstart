@@ -17,7 +17,7 @@ weight = 5
 [[education.courses]]
   course = "Master of Applied Science (Research)"
   institution = "Deakin University"
-  year = 2018 - 
+  year = 2023
 
 [[education.courses]]
   course = "Graduate Diploma of Psychology"
