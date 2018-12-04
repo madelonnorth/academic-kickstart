@@ -7,7 +7,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Custom Section"
+title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -15,6 +15,11 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+I have conducted seminar teaching in the following units at Deakin University
 
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
+- HBS110 Health Behaviour
+
+I have conducted sessional marking in the following units at Deakin University
+- HBS110 Health Behaviour
+- HPS111 Psychology A: Fundamentals of Human Behaviour
+- HPS204 Human Social Behaviour
