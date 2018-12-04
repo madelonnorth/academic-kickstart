@@ -19,27 +19,45 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Administrative assistant"
+  company = "The Australasian Society of Behavioural Health and Medicine"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = ""
+  date_start = "2018-01-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Maintainence of membership database
+  * Communication with members
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research Assistant"
+  company = "Deakin University"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = ""
+  date_start = "2018-06-01"
+  date_end = "2018-12-31"
+  description = """
+  Responsibilities include:
+  
+  * Conduct of a systematic mapping review of the use of Protection Motivation Theory.   
+  * Literature search, title and abstract screening, full-text data extraction.
+  """
+  
+[[experience]]
+  title = "Research Assistant"
+  company = "Deakin University"
+  company_url = ""
+  location = ""
+  date_start = "2017-09-01"
+  date_end = "2017-12-31"
+  description = """
+  Responsibilities include:
+  
+  * Conduct of a systematic review and meta-analysis of the relationship between pregnancy intention and health behaviours   
+  * Literature search, title and abstract screening, full-text data extraction.
+  """
 
 +++
