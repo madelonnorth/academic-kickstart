@@ -18,8 +18,10 @@ weight = 60
 I have conducted seminar teaching in the following units at Deakin University
 
 - HBS110 Health Behaviour
+- HPS111 Psychology A: Fundamentals of Human Behaviour
 
 I have conducted sessional marking in the following units at Deakin University
+
 - HBS110 Health Behaviour
 - HPS111 Psychology A: Fundamentals of Human Behaviour
 - HPS204 Human Social Behaviour
